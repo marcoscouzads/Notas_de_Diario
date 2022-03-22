@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notas de Diario</string>
+
+<!--    Activity Create Note-->
+    <string name="hint_body_note_create">Digite Sua nota</string>
+    <string name="txt_btn_create_note">Salvar</string>
+    <string name="hint_title_note_create">Titulo da nota</string>
+    <string name="txt_title_note_create">Insira uma nota</string>
+
+
+</resources>
